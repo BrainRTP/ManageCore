@@ -1,0 +1,13 @@
+prefix: '&c[&fQuickManage&c] &f> '
+reloadSuccess: '&aPlugin has been successfully reloaded!'
+permissionDeny: '&cYou do not have permission to do this!'
+playerNotFound: '&cPlayer not found.'
+physics: "&fPhicis is "
+physicsOn: "&aOn."
+physicsOff: "&cOff."
+signLines: "&cLine number must be from 1 to 4."
+signNumberFormat: "&cLine number must be a number."
+signNotFound: "&cSign not found."
+setNameMobCancel: "&cRenaming was canceled because you haven't select a mob."
+setNameAction: "&cLeft Click to change the name."
+bcastpName: "Укажите ник"

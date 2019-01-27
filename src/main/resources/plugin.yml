@@ -1,0 +1,5 @@
+name: QuickManage
+version: ${project.version}
+main: ru.brainrtp.managecore.QuickManage
+api-version: 1.13
+authors: [BrainRTP]
